@@ -4,3 +4,4 @@
     <link rel="shortcut icon" href="{{asset('tamplate/assets/images/logo/favicon.png')}}" type="image/png">
 
     <link rel="stylesheet" href="asset('tamplate/assets/css/shared/iconly.css')}}">
+    <link rel="stylesheet" href="{{asset('tamplate/assets/css/pages/auth.css')}}">
