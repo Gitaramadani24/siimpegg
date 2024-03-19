@@ -20,7 +20,7 @@
             <i class="bi bi-justify fs-3"></i>
         </a>
     </header>
-    <h2 class="text-center">Selamat Datang Dashboard</h2>
+    <h2 class="text-center">Selamat Datang di Dashboard Kepegawaian BKPSDM Kota Padang</h2>
 </div>
 
 

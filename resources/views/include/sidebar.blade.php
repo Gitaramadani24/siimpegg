@@ -35,14 +35,14 @@
                 class="sidebar-item  has-sub">
                 <a href="#" class='sidebar-link'>
                     <i class="bi bi-stack"></i>
-                    <span>Components</span>
+                    <span>Pegawai</span>
                 </a>
                 <ul class="submenu ">
                     <li class="submenu-item ">
-                        <a href="table-datatable.html">Datatable</a>
+                        <a href="table-datatable.html">PNS</a>
                     </li>
                     <li class="submenu-item ">
-                        <a href="table-datatable-jquery.html">Datatable (jQuery)</a>
+                        <a href="table-datatable-jquery.html">PPPK</a>
                     </li>
                 </ul>
 
@@ -52,33 +52,31 @@
                 class="sidebar-item  has-sub">
                 <a href="#" class='sidebar-link'>
                     <i class="bi bi-collection-fill"></i>
-                    <span>Extra Components</span>
+                    <span>Data Pegawai</span>
                 </a>
                 <ul class="submenu ">
                     <li class="submenu-item ">
-                        <a href="table-datatable.html">Datatable</a>
+                        <a href="table-datatable.html">Agama</a>
                     </li>
                     <li class="submenu-item ">
-                        <a href="table-datatable-jquery.html">Datatable (jQuery)</a>
+                        <a href="table-datatable-jquery.html">Golongan</a>
+                    </li>
+                    <li class="submenu-item ">
+                        <a href="table-datatable-jquery.html">Jabatan</a>
+                    </li>
+                    <li class="submenu-item ">
+                        <a href="table-datatable-jquery.html">Pendidikan</a>
                     </li>
                 </ul>
 
             </li>
 
             <li
-                class="sidebar-item  has-sub">
+                class="sidebar-item">
                 <a href="#" class='sidebar-link'>
                     <i class="bi bi-grid-1x2-fill"></i>
-                    <span>Layouts</span>
+                    <span>Grafik</span>
                 </a>
-                <ul class="submenu ">
-                    <li class="submenu-item ">
-                        <a href="table-datatable.html">Datatable</a>
-                    </li>
-                    <li class="submenu-item ">
-                        <a href="table-datatable-jquery.html">Datatable (jQuery)</a>
-                    </li>
-                </ul>
             </li>
         </ul>
     </div>
